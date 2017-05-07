@@ -26,7 +26,7 @@ workbook.xlsx.readFile(filename)
 
 
 function scenario(){
-var scenario="SAO 41: test"
+var scenario="test"
 return scenario;
 }
 
